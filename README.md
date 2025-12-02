@@ -2,6 +2,8 @@
 
 Une plateforme d'apprentissage en ligne moderne offrant des cours gratuits avec certificats dans divers domaines technologiques.
 
+🔗 **[Voir la démo en ligne](https://mbarekoussama.github.io/edu-code-/)**
+
 ## 📖 Description
 
 **edu Code** est une plateforme éducative en ligne qui propose une large gamme de cours dans des domaines variés tels que la technologie, le développement web, la science des données, et bien plus encore. Notre mission est de démocratiser l'éducation en offrant des cours accessibles et interactifs, dispensés par des experts, pour aider les apprenants à développer des compétences professionnelles à leur propre rythme.
